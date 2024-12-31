@@ -1,0 +1,4 @@
+h2 DB 접속시 연결 에러
+https://velog.io/@hajju/H2-DB-%EC%A0%91%EC%86%8D-%EC%8B%9C-IO-Exception-%EA%B2%BD%EB%A1%9C-90028-232-9002890028-%EC%98%A4%EB%A5%98
+터미널로 파일 생성 x
+새로 텍스트문서 만든 다음에 다른이름저장 - local.mv.db 모든 파일형식으로 변경
